@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Gabriel Maiorani - Securtity Engineer on Nagra Kudelski
+- 👀 I’m interested in Python and Javascript
+- 🌱 I’m currently upgrading my abilities on CI/CD 
+- 📫 +5511944244695 / maioranigabriel@gmail.com
